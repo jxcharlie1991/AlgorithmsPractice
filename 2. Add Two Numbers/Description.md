@@ -3,7 +3,7 @@ You are given two **non-empty** linked lists representing two non-negative integ
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
 ##### Example 1:
-
+![pic](https://github.com/jxcharlie1991/AlgorithmsPractice/blob/main/2.%20Add%20Two%20Numbers/addtwonumber1.jpg)
 
 <pre>
 <b>Input: </b>l1 = [2,4,3], l2 = [5,6,4]
